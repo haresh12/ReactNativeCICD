@@ -20,7 +20,7 @@ function App(): JSX.Element {
   return (
     <SafeAreaView style={backgroundStyle}>
       <Text style={styles.sectionTitle}>
-        THIS IS THE TEXT THAT WE ARE GOING TO RELEASE IN FEATURE ONE
+       THIS IS THE TEXT WE ARE GOING TO RELEASE IN FEATURE ONE FOR REACT NATIVE.
       </Text>
     </SafeAreaView>
   );
